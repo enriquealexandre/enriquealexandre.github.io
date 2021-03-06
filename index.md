@@ -4,7 +4,6 @@
 
 layout: home
 ---
-
 <p>Hola. </p>
 
 ##Contact
