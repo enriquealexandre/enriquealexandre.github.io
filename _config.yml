@@ -31,7 +31,9 @@ github_username:  enriquealexandre
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll/scholar 
 
+     
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -51,3 +53,24 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# Jekyll-scholar parameters
+scholar:
+  style: assets/bibliography/ieee-with-url.csl
+  locale: en
+
+  order: descending
+  sort_by: year
+  group_by: year
+  group_order: descending
+
+  repository: assets/pdfs
+
+#details_dir:    bibliography
+#  details_layout: bibtexB.html
+  details_link:   ""
+  #
+  #      #bibliography_template: '{{ reference }} [<a href="{{links.pdf}}">Supporting Materials</a>]'
+  bibliography_template: bibtex
+  #          #bibliography_template: "{{reference}} <pre>{{ entry.bibtex }}"
+  #
+  #            replace_strings: true
