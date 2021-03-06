@@ -5,4 +5,4 @@
 layout: page
 ---
 
-Hola
+Hola mundo.
