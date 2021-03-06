@@ -23,7 +23,7 @@ email: enrique.alexandre@uah.es
 description: >- # this means to ignore newlines until "baseurl:"
   Página personal de Enrique Alexandre, profesor titular de la Universidad de Alcalá (UAH).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://enriquealexandre.es" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: e_alexandre
 github_username:  enriquealexandre
 
