@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 ---
 
 ¡Bienvenido!
@@ -12,8 +12,8 @@ Soy Ingeniero de Telecomunicación (1999) y Doctor Ingeniero de Telecomunicació
 Respecto a mi docencia, formo parte de la Unidad Docente de Comunicaciones, donde colaboro en la impartición de diversas asignaturas tanto de Grado como de Máster. Además, pertenezco al grupo de investigación GHEODE, estando mi trabajo centrado especialmente en la aplicación de algoritmos heurísticos y técnicas de inteligencia artificial a diversos problemas de optimización en el campo de la ingeniería. 
 
 Contacto:
- - Dpto. de Teoría de la Señal y Comunicaciones
- - Universidad de Alcalá
- - Campus Universitario s/n - 28805
- - Alcalá de Henares - Madrid (Spain)
- - +34 91 885 67 27
+  Dpto. de Teoría de la Señal y Comunicaciones
+  Universidad de Alcalá
+  Campus Universitario s/n - 28805
+  Alcalá de Henares - Madrid (Spain)
+  +34 91 885 67 27
