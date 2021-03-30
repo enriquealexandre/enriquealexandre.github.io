@@ -1,5 +1,6 @@
 ---
-layout: home
+#layout: home
+layout: page
 title: Docencia
 permalink: /docencia/
 ---
