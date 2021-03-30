@@ -4,7 +4,12 @@ title: CV
 permalink: /cv/
 ---
 
-(En permanente desactualización...)
+(Permanentemente desactualizado...)
+
+# INDICADORES DE CALIDAD
+* 2 Sexenios de investigación (2004-2009 y 2010-2015)
+* 3 Quinquenios docentes (2004-2009, 2009-2014 y 2014-2019)
+
 # FORMACIÓN ACADÉMICA	
 * Doctor Ingeniero de Telecomunicación por la Universidad de Vigo, 2004
 Tesis Doctoral: “On the management of information flows in natural audio coders”. Calificación: Sobresaliente Cum Laude.
@@ -57,7 +62,7 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 
 # CAPÍTULOS DE LIBRO:
 * *P.A. Gutiérrez, J.C. Fernández, M. Pérez, L. Cornejo, E. Alexandre, S. Salcedo, C. Hervás*. Energy flux range classification by using a dynamic window autoregressive model. Advances in Computational Intelligence, 2015. [Springer](http://link.springer.com/chapter/10.1007%2F978-3-319-19222-2_8).
-* *S. Salcedo, L. Cuadra, A. Portilla, S. Jiménez, E. Alexandre*. A review of computational intelligence algorithms in insurance applications. Statistical and Soft Computing Approaches in Insurance Problems, 2013. [NovaPublishers](https://www.novapublishers.com/catalog/product_info.php?products_id=43102).
+* *S. Salcedo, L. Cuadra, A. Portilla, S. Jiménez, E. Alexandre*. A review of computational intelligence algorithms in insurance applications. Statistical and Soft Computing Approaches in Insurance Problems, 2013. [NovaPublishers](https://novapublishers.com/shop/statistical-and-soft-computing-approaches-in-insurance-problems). [Descargar PDF](https://www.researchgate.net/profile/Sancho-Salcedo-Sanz/publication/260489452_A_Review_of_Computational_Intelligence_Algorithms_in_Insurance_Applications/links/55f9798508aeba1d9f1ddee8/A-Review-of-Computational-Intelligence-Algorithms-in-Insurance-Applications.pdf)
 * *L. Álvarez, E. Alexandre, C. Llerena, R. Gil, L. Cuadra*. Speech enhancement in noisy environments in hearing aids driven by tailored gain function based on a gaussian mixture model. Lecture Notes in Artificial Intelligence, 2013. [Springer](http://link.springer.com/chapter/10.1007%2F978-3-642-38658-9_45).
 * *E. Alexandre, L. Cuadra, R. Gil*. Sound classification in hearing aids driven by the harmony-search algorithm. Harmony search algorithms: Theory and Applications, Springer-Verlag, 2009. [Springer](http://link.springer.com/chapter/10.1007%2F978-3-642-00185-7_11).
 * *E. Alexandre, L. Cuadra, M. Rosa, F. López*. Speech/non-speech classification in hearing aids driven by tailored neural networks. Speech, Audio,Image and Biomedical Signal Processing using Neural Networks. Springer-Verlag. 2008. [Springer](http://link.springer.com/chapter/10.1007%2F978-3-540-75398-8_7).
@@ -67,12 +72,14 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 * *A. Pena, E. Alexandre*. Artifacts in frequency and their variation in time (birdies). AES Perceptual audio coders: what to listen for. Ed. AES, 2001. [Audio Engineering Society](http://www.aes.org/publications/technical/AudioCoding.cfm).
 
 # LIBROS Y MONOGRAFÍAS COMPLETAS:
-* *J. Acevedo, E. Alexandre, L. Cuadra, P. Gil, R. Gil, R. López, S. Lafuente, P. Siegmann, R. Vicen*. Manejo de instrumentos del laboratorio de circuitos eléctricos y lineales. UAH, 2008. [Amazon](http://www.amazon.es/instrumentos-laboratorio-eléctricos-Universitarios-Tecnolog%C3%ADa/dp/8481387975).
-* *M. Sobreira, E. Alexandre.* Ingeniería Acústica. Ed. SPTV. 2003 (1ª ed.), 2004 (2ª ed.). [Amazon](http://www.amazon.es/Ingenier%C3%ADa-Acústica-Manuel-Sobreira-Seoane/dp/8493279749)
+* *E. Alexandre*. Tecnología Musical. 2015. ISBN: 978-84-697-2045-5
+* *J. Acevedo, E. Alexandre, L. Cuadra, P. Gil, R. Gil, R. López, S. Lafuente, P. Siegmann, R. Vicen*. Manejo de instrumentos del laboratorio de circuitos eléctricos y lineales. UAH, 2008. ISBN: 978-84-8138-797-1. [Amazon](http://www.amazon.es/instrumentos-laboratorio-eléctricos-Universitarios-Tecnolog%C3%ADa/dp/8481387975).
+* *M. Sobreira, E. Alexandre.* Ingeniería Acústica. Ed. SPTV. 2003 (1ª ed.), 2004 (2ª ed.). ISBN: 84-932797-49. [Amazon](http://www.amazon.es/Ingenier%C3%ADa-Acústica-Manuel-Sobreira-Seoane/dp/8493279749)
 * *M. Sobreira, E. Alexandre, J. Laredo*. Ed. Fundación Atlántico. Guía para el control del ruido en el sector terciario. 2001.
 
 # CONTRIBUCIONES A CONGRESOS INTERNACIONALES:
 * *L. Cornejo­-Bueno, A. Aybar­-Ruiz, S. Jiménez­-Fernandez, E. Alexandre, J.C. Nieto­-Borge, S. Salcedo­-Sanz*. A Grouping Genetic Algorithm­­ - Extreme Learning Machine Approach for Optimal Wave Energy Prediction. IEEE World Congress on Computational Intelligence, 2016.
+* *L. Álvarez, C. Llerena, E. Alexandre*. Application of Neural Networks to Speech/Music/Noise Classification in Digital Hearing Aids. Recent Advances in Signal Processing, Computational Geometry and Systems Theory, 2013. [Descargar PDF](http://www.wseas.us/e-library/conferences/2011/Florence/GAVTASC/GAVTASC-15.pdf).
 * *A. Pastor, E. Alexandre, S. Salcedo, D. Gallo, L. Cuadra*. Optimal quantization and transmission for ECG signals using genetic algorithms. 15th Applied Stochastic Models and Data Analysis International Conference, 2013.
 * *L. Carro, S. Salcedo, A. Portilla, L. Cuadra, E. Alexandre*. A novel pointer-encoding genetic programming algorithm for classification problems. 15th Applied Stochastic Models and Data Analysis International Conference, 2013.
 * *M. Rosa, P. Jarabo, R. Gil, E. Alexandre, L. Cuadra*. Application of Diametrical Clustering to Tree-Based Matching Pursuit for Sinusoidal Modeling. EUSIPCO, 2010. [IEEE](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&amp;arnumber=7096691).
@@ -119,11 +126,11 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 * *E. Alexandre, A. Pena*. Perfilado temporal de ruido en codificadores perceptuales de audio. URSI. 2000.
 
 # TESIS DOCTORALES DIRIGIDAS:
-* Lorena Álvarez. [Signal Processing Algorithms for Digital Hearing Aids](https://www.educacion.gob.es/teseo/imprimirFicheroTesis.do?fichero=33175). 2012. Apto Cum Laude.
+* Lorena Álvarez. [Signal Processing Algorithms for Digital Hearing Aids](https://www.educacion.gob.es/teseo/mostrarRef.do?ref=984867). 2012. Apto Cum Laude.
 
 # PARTICIPACIÓN EN PROYECTOS FINANCIADOS EN CONVOCATORIAS PÚBLICAS:
 ## Como investigador principal:
-* Nuevos algoritmos híbridos bio-inspirados para problemas de predicción en energías renovables. Ministerio de Economía y Competitividad, 2015-2017.
+* Nuevos algoritmos híbridos bio-inspirados para problemas de predicción en energías renovables. Ministerio de Economía y Competitividad, 2015-2018.
 * Estudio de técnicas de procesado de señal para la detección y clasificación de vehículos por medio del sonido. UAH, 2012.
 * Elaboración de material docente transversal para la mejora del aprendizaje significativo de codificadores de sonido en asignaturas de Telecomunicación. UAH, 2010.
 * Diseño de materiaul docente de apoyo para las asignaturas de circuitos. UAH, 2009.
@@ -132,6 +139,13 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 * Diseño y evaluación de herramientas para la caracterización automática de señales sonoras. UAH. 2005-2007.
 
 ## Como miembro del equipo investigador:
+* Programa microrredes inteligentes Comunidad de Madrid. CAM, 2019-2021.
+* Nuevos algoritmos híbridos de inspiración natural para problemas de clasificación ordinal y predicción. CICYT, 2018-2020.
+* Redes de sensores inalámbricas. Eficiencia energética en la edificación. UAH, 2017-2018.
+* Programa de redes inteligentes en la Comunidad de Madrid (PRICAM). CAM, 2014-2018.
+* Diseño de algoritmos de "compressed aggregation" para la predicción y posicionamiento de generadores eólicos y fotovoltaicos en microgrids. UAH, 2016-2017.
+* Metaheurística para estrategias de desarrollo de políticas de inversión TIC en Latinoamérica. CAM, 2016-2017.
+* Diseño de algoritmos de soft-computing para problemas de predicción de energía eólica, fotovoltaica y mareomotriz por olas. UAH, 2015-2016.
 * Algoritmos de soft computing mejorados para problemas de predicción en el análisis de entidades aseguradoras. CICYT, 2013-2014.
 * CROMN: Algoritmos metaheurísticos para la optimización del coste de despliegue de redes de telecomunicación móvil. UAH, 2013.
 * Investigación sobre técnicas mixtas de separación de fuentes de sonido multicanal para la reducción del ruido. CICYT, 2010-2012.
@@ -152,8 +166,15 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 * Estudio de técnicas de codificación multicanal. 2005.
 
 ## Como miembro del equipo investigador:
+* Prospectiva sobre 5G,la nueva generación de redes móviles para internet del futuro, 2018.
+* Desarrollo de un simulador y optimizador para el proyecto Sierra, 2017. 
+* Realizació informe pericial para D.José A. Trugueda Carrera que consiste en un estudio comparado entre los partes de trabajo presentados por D. Pascal Dupont y las facturas del uso de los servicios de telecomunicación asignados a su linea/contrato de telefonía móvil con Vodafone España S.A., 2016.
+* Emisión de informes técnicos en la certificación de proyectos I+D+i por parte de los investigadores del Instituto Universidad de Alcalá, 2015.
+* Analysis of Shadowing at Grazing Incidence to Derive Significant Wave Height, 2013.
 * Scart: Sistema de codificación de audio para Radio y TV, 2010.
-* Voice Communication Systems, 2008.
+* Implementación de mejoras de aplicación CVCA, 2009.
+* Comunicaciones vocales y sustemas de grabación, 2009.
+* Voice Communication Systems, 2007.
 * Laringoscopio y análisis de voz. 2008.
 * Implementación de mejoras en la aplicación de gestión de proveedores Gil Pro. 2007.
 * Diseño de una aplicación para la gestión de servicios de aduanas (GSA). 2007.
@@ -200,6 +221,9 @@ Proyecto Fin de Carrera: “Aplicación de algoritmos en el dominio de la frecue
 * Codirector del I Curso de Especialista en Acústica Aplicada (Título propio de la Universidad de Vigo).<
 
 # OTROS MÉRITOS:
+* Evaluador del programa PEOPLE dentro del FP7 - Acciones CIG e IxF. 
+* Evaluador del programa PEOPLE dentro de H2020.
+* Evaluador de proyectos de I+D (ANEP).
 * Vocal electo de la sección española de la Audio Engineering Society (2004-2012).
 * Revisor de varias revistas internacionales.
 * Evaluador de los premios a los mejores Proyectos Fin de Carrera y Tesis Doctorales del Colegio Oficial de Ingenieros de Telecomunicación.
